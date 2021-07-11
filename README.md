@@ -1,4 +1,7 @@
 
+More Stuff
+==
+
 Shairport Sync
 =============
 * Shairport Sync is an AirPlay audio player – it plays audio streamed from Apple devices and from AirPlay sources such as [OwnTone](https://github.com/owntone/owntone-server) (formerly `forked-daapd`).
